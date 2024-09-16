@@ -11,7 +11,7 @@ to be a CVS client, providing for a totally distributed source
 code management system.
 
 The
-link:docs/manual/index.html[User Manual Table Of Contents]
+link:src/main/resources/com/ice/jcvsii/doc/manual/index.html[User Manual Table Of Contents]
 is a good place to start. This is the same documentation
 displayed by the builtin help.
 
